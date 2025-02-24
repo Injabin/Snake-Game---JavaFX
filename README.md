@@ -108,4 +108,4 @@ This project is **open-source** under the **MIT License**.
 
 ---
 
-👨‍💻 Developed by **Your Name** | Follow me on **GitHub**: [yourusername](https://github.com/yourusername) 🚀
+👨‍💻 Developed by **Injabin** | Follow me on **GitHub**: [Injabin](https://github.com/Injabin) 🚀
