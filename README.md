@@ -53,8 +53,7 @@ SnakeGame/
 
 1️⃣ **Clone the repository:**  
 ```bash
-[git clone https://github.com/yourusername/SnakeGame.git
-cd SnakeGame](https://github.com/Injabin/Snake-Game---JavaFX)
+Download all the files!
 ```
 
 2️⃣ **Run using IntelliJ IDEA or any Java IDE:**  
